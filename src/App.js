@@ -1,5 +1,5 @@
-import React from "react" ;
-import Form from "./component/Form";
+import React from "react" 
+import Profil from "./componentjsx/Profil"
 
 
 
@@ -8,7 +8,7 @@ function App() {
   return (
    <div>
 
-     <Form />
+     <Profil />
      
    </div>
   );
